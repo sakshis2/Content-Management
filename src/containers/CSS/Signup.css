@@ -1,0 +1,18 @@
+.row{
+    margin: auto;
+    padding: 0 10px 10px 0px;
+    display: block;
+    width: auto;
+}
+.input{
+    width: 100%;
+    height: 40px;
+}
+.loginHeader {
+    text-align: center;
+    font-size: 50px;
+}
+.submitButton{
+    float: right;
+    margin-top:5px
+}

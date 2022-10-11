@@ -1,0 +1,17 @@
+.Cards{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    
+}
+.Card{
+    margin-bottom:20px;
+    width:1000px;
+}
+.content{
+    width:100%;
+    border: none !important;
+}
+.addArticle{
+    float:right;
+}
